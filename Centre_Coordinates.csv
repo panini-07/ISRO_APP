@@ -1,0 +1,45 @@
+id,name,place,state,latitude,longitude,link
+1,Semi-Conductor Laboratory (SCL),Chandigarh,Punjab/Haryana,30.7333,76.7794,https://www.scl.gov.in/
+2,Western RRSC,Jodhpur,Rajasthan,26.2389,73.0243,https://www.nrsc.gov.in/
+3,Solar Observatory,Udaipur,Rajasthan,24.5925,73.662,https://www.prl.res.in/prl-eng/division/usob
+4,Space Applications Centre (SAC),Ahmedabad,Gujarat,23.0303,72.558,https://www.sac.gov.in/
+5,Physical Research Laboratory (PRL),Ahmedabad,Gujarat,23.0337,72.5433,https://www.prl.res.in/prl-eng/division/usob
+6,Development and Educational Communication Unit (DECU),Ahmedabad,Gujarat,23.0719,72.5724,https://www.indiascienceandtechnology.gov.in/organisations/ministry-and-departments/department-space-isro/development-and-educational-communication-unit-decu-ahmedabad
+7,Infrared Observatory,Mt.Abu,Rajasthan,24.5925,72.7179,https://www.prl.res.in/~miro/
+8,Master Control Facility-B (MCF),Bhopal,Madhya Pradesh,23.2857,77.3375,https://www.mcf.gov.in/
+9,ISRO Liaison Office,Mumbai,Maharashtra,19.076,72.8777,
+10,Indian Deep Space Network (IDSN),Byalalu,Karnataka,12.8281,77.4407,
+11,Indian Space Science Data Centre (ISSDC),Byalalu,Karnataka,12.839,77.4021,https://www.issdc.gov.in/
+12,Master Control Facility (MCF),Hassan,Karnataka,13.0068,76.1021,https://www.mcf.gov.in/
+13,Ammonium Perchlorate Experimental Plant,Aluva,Kerala,10.107,76.354,
+14,Space Commission,Bengaluru,Karnataka,12.9716,77.5946,
+15,Department of Space and ISRO Headquarters,Bengaluru,Karnataka,12.9726,77.595,https://www.isro.gov.in/DOS&ISROHQ.html
+16,INSAT Programme Office,Bengaluru,Karnataka,12.9718,77.5951,
+17,NNRMS Secretariat,Bengaluru,Karnataka,12.973,77.5952,
+18,Civil Engineering Programme Office,Bengaluru,Karnataka,12.982,77.5956,
+19,Antrix Corporation,Bengaluru,Karnataka,12.979,77.5899,
+20,U R Rao Satellite Centre (URSC),Bengaluru,Karnataka,12.9769,77.5869,https://www.ursc.gov.in/
+21,Laboratory for Electro-Optical Systems (LEOS),Bengaluru,Karnataka,13.0285,77.5675,
+22,"ISRO Telemetry, Tracking and Command Network (ISTRAC)",Bengaluru,Karnataka,13.1356,77.576,
+23,Southern RRSC,Bengaluru,Karnataka,12.9716,77.5946,https://www.nrsc.gov.in/
+24,Liquid Propulsion Systems Centre (LPSC),Bengaluru,Karnataka,12.9715,77.5948,
+25,Human Space Flight Centre (HSFC),Bengaluru,Karnataka,13.121,77.565,
+26,New Space India Limited (NSIL),Bengaluru,Karnataka,13.0034,77.5696,https://www.nsilindia.co.in/
+27,New Space India Limited (NSIL),New Delhi,Delhi,28.6139,77.209,https://www.nsilindia.co.in/
+28,ISRO Branch Office,New Delhi,Delhi,28.6139,77.209,
+29,Delhi Earth Station,New Delhi,Delhi,28.5743,77.2072,
+30,Indian Institute of Remote Sensing (IIRS),Dehradun,Uttarakand,30.33,78.04,https://www.iirs.gov.in/
+31,Centre for Space Science and Technology Education in Asia-Pacific (CSSTEAP),Dehradun,Uttarakand,30.34027,78.04432,
+32,ISTRAC Ground Station,Lucknow,Uttar Pradesh,26.847,80.9462,
+33,Eastern RRSC,Kolkata,West Bengal,22.5726,88.3639,https://www.nrsc.gov.in/
+34,North Eastern Space Application Centre (NE-SAC),Shillong,Meghalaya,25.65,91.9,
+35,Central RRSC,Nagpur,Maharashtra,21.1458,79.0882,https://www.nrsc.gov.in/
+36,National Remote Sensing Centre (NRSC),Hyderabad,Telangana,17.4947,78.5783,
+37,National Atmospheric Research Laboratory (NARL),Tirupati,Andhra Pradesh,13.4591,79.1755,
+38,Down Range Station,Port Blair,Andaman and Nicobar,11.6232,92.7265,
+39,"Satish Dhawan Space Centre (SDSC), SHAR",Sriharikota,Andhra Pradesh,13.7335,80.2307,
+40,ISRO Propulsion Complex,Mahendragiri,Tamil Nadu,8.2687,77.5603,
+41,Vikram Sarabhai Space Centre (VSSC),Thiruvananthapuram,Kerala,8.5216,76.9386,
+42,Liquid Propulsion Systems Centre (LPSC),Thiruvananthapuram,Kerala,8.5321,76.9206,
+43,ISRO Inertial Systems Unit (IISU),Thiruvananthapuram,Kerala,8.5241,76.9383,
+44,Indian Institute of Space Science and Technology (IIST),Thiruvananthapuram,Kerala,8.4836,76.9471,https://www.iist.ac.in/
