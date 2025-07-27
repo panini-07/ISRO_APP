@@ -1,6 +1,0 @@
-[pages]
-order = [
-  "Home.py",
-  "pages/Centres.py",
-  "pages/ISRO_Statistics.py"
-]
